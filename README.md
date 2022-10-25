@@ -9,10 +9,11 @@ The purpose of the analysis is to provide temperature trends of Oahu for the mon
 
 ![image](https://user-images.githubusercontent.com/108503112/197891941-ed4cdbc6-09fe-4fab-af16-a8dac13db439.png)
 
-* We also filtered for all December temperatures into a list and convert it into a DataFrame. From the Data,Frame, we can determine the summary statistics for all December temperatures.
+* We also filtered for all December temperatures into a list and convert it into a DataFrame. From the DataFrame, we can determine the summary statistics for all December temperatures.
 
 ![image](https://user-images.githubusercontent.com/108503112/197892520-487b5cdf-a7f2-4ec1-a522-29d75fe1290a.png)
 
 * For both the June and December temperatures, we can see that the standard deviation is 3 degrees F. 
 
 ### Summary
+The results determine that in both June and December, the temperature will most likely be warm enough to open the surf and ice cream shop.
