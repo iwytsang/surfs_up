@@ -1,7 +1,7 @@
 # Surfs Up
 ## Overview
 ### Purpose
-The purpose of the analysis is to provide temperature trends of Oahu for the months of June and December in order for W. Avy to determine whether or not to open u p a surf and ice cream shop business. We use Python SQLAlchemy, numpy, and pandas to complete our analysis.
+The purpose of the analysis is to provide temperature trends of Oahu for the months of June and December in order for W. Avy to determine whether or not to open up a surf and ice cream shop business. We use Python SQLAlchemy, numpy, and pandas to complete our analysis.
 
 ### Results
 
