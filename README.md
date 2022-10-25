@@ -17,3 +17,5 @@ The purpose of the analysis is to provide temperature trends of Oahu for the mon
 
 ### Summary
 The results determine that in both June and December, the temperature will most likely be warm enough to open the surf and ice cream shop.
+However, we only have temperatures for two months out of twelve in the year. One additional query I would recommend would be to find the temperatures for all months in the year so we can determine the summary statistics.
+Another query I would recommend would be to find the most frequently reoccuring temperature (mode) for each month.
