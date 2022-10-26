@@ -24,7 +24,7 @@ The purpose of the analysis is to provide temperature trends of Oahu in Hawaii f
 * For both the June and December temperatures, we can see that the standard deviation is 3 degrees F. 
 
 ### Summary
-The results determine that in both June and December, the temperature will most likely be warm enough in those two months to open the surf and ice cream shop. However, that is not enough data as we only have temperature statistics for two months out of twelve in the year. 
+The results determine that in both June and December, the temperature will most likely be warm enough in those two months to open the surf and ice cream shop. With the standard deviation being 3 degrees F and the mean temperatures being 74.944118 degrees F in June and 71.041529 degrees F in December, it doesn't seem like the temperatures will deviate too much from the mean in June and December. However, that is not enough data as we only have temperature statistics for two months out of twelve in the year. 
 
 One additional query I would recommend would be to find the temperatures for all months in the year so we can determine the summary statistics.
-Another query I would recommend would be to find the most frequently reoccuring temperature (mode) for each month.
+Another query I would recommend would be to find the most frequently reoccuring temperature (mode) for each month. We could also add in data regarding the windchill temperatures, wind speed, as well as precipitation.
