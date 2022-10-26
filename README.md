@@ -5,7 +5,7 @@ The purpose of the analysis is to provide temperature trends of Oahu in Hawaii f
 
 ### Results
 
-* From our analysis, we filtered for all June temperatures into a list and convert it into a DataFrame.
+* From our analysis, we filtered for all June temperatures into a list and converted it into a DataFrame. We can see that there are 1700 rows of temperature for June.
 
 ![image](https://user-images.githubusercontent.com/108503112/198149393-3a561236-efce-4e2b-bd82-239afe72826e.png) 
 
@@ -13,7 +13,7 @@ The purpose of the analysis is to provide temperature trends of Oahu in Hawaii f
 
 ![image](https://user-images.githubusercontent.com/108503112/197891941-ed4cdbc6-09fe-4fab-af16-a8dac13db439.png)
 
-* We also filtered for all December temperatures into a list and convert it into a DataFrame. 
+* We also filtered for all December temperatures into a list and convert it into a DataFrame. We can see that there are 1517 rows of temperature for December.
 
 ![image](https://user-images.githubusercontent.com/108503112/198149606-4a162d7d-84c2-42dd-b9d9-703febed1e64.png)
 
